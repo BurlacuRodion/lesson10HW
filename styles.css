@@ -1,3 +1,4 @@
+/* ex 1 */
 .title {
     font-size: 3rem;
 }
@@ -18,5 +19,22 @@
     .title {
         font-size: 1rem;
     }
+}
+
+/* ex 2 */
+
+body {
+    margin: 0;
+}
+
+.bg-img {
+    height: 50vh;
+    width: 100vw;
+    display: grid;
+    align-content: center;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc8a3e51-68fd-4e99-89c6-1857948d8544/dgx11el-52dd2dec-fbfd-4752-a0c6-29ca073ae75a.png/v1/fill/w_1280,h_718,q_80,strp/reflections_in_nature_by_inkimagine_dgx11el-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvYmM4YTNlNTEtNjhmZC00ZTk5LTg5YzYtMTg1Nzk0OGQ4NTQ0XC9kZ3gxMWVsLTUyZGQyZGVjLWZiZmQtNDc1Mi1hMGM2LTI5Y2EwNzNhZTc1YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nzYRbkRFhSlFJgnd1lDTVLFKlksXafbJNoph30GOw48');
+    color: white;
+    font-weight: 700;
+    text-align: center;
 }
 
